@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.dystudio.gateway",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.dystudio.gateway",
+    "packageFolder": "com/dystudio/gateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NjZlMDk3YmVkODRmMjQzMmZmOGEzMWU4Nzg5ZTQwZmVmOTgxNTA5YTE2NzYxMGM2MWI2NTYwY2NlMDg4MDlkMDg5YzljNmQ2NDJmZDgxMjc4MTliYWJmOWQ4NDc0MmNhZTIzZWU3NjJiZTdmY2Y2NTFhNjViMGFhYmM0ZjNmNWE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "zh-cn", "ja"],
+    "blueprints": []
+  }
+}
